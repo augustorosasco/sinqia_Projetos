@@ -1,0 +1,13 @@
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\bin\Debug\GestaoEscola.exe.config
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\bin\Debug\GestaoEscola.exe
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\bin\Debug\GestaoEscola.pdb
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\obj\Debug\GestaoEscola.Properties.Resources.resources
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\obj\Debug\GestaoEscola.csproj.GenerateResource.cache
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\obj\Debug\GestaoEscola.csproj.CoreCompileInputs.cache
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\obj\Debug\GestaoEscola.exe
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\obj\Debug\GestaoEscola.pdb
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\obj\Debug\GestaoEscola.csprojAssemblyReference.cache
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\obj\Debug\GestaoEscola.Form1.resources
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\bin\Debug\Projeto_AcessoDados.dll
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\bin\Debug\Projeto_AcessoDados.pdb
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\GestaoEscola\obj\Debug\GestaoEscola.csproj.CopyComplete

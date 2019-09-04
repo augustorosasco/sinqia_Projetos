@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoEscola", "GestaoEscola\GestaoEscola.csproj", "{0D6ED22C-46A7-4ED4-B988-D3A06585ABB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_AcessoDados", "Projeto_AcessoDados\Projeto_AcessoDados.csproj", "{3CFDEEA3-F94D-48B0-A56C-0B6AD4CCA848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6ED22C-46A7-4ED4-B988-D3A06585ABB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6ED22C-46A7-4ED4-B988-D3A06585ABB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6ED22C-46A7-4ED4-B988-D3A06585ABB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6ED22C-46A7-4ED4-B988-D3A06585ABB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFDEEA3-F94D-48B0-A56C-0B6AD4CCA848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFDEEA3-F94D-48B0-A56C-0B6AD4CCA848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFDEEA3-F94D-48B0-A56C-0B6AD4CCA848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFDEEA3-F94D-48B0-A56C-0B6AD4CCA848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64E8C091-19D2-4624-BE15-6D647B4F7A89}
+	EndGlobalSection
+EndGlobal

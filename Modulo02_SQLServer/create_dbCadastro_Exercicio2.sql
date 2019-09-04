@@ -1,0 +1,23 @@
+USE MASTER 
+GO
+
+CREATE DATABASE DB_Cadastro
+ON 
+(
+NAME = DB_Cadastro_DAT,
+FILENAME = N'C:\Users\ta0503\Documents\Sinqia_AspNet\DB_Cadastro.mdf',
+SIZE = 5000KB,
+MAXSIZE=UNLIMITED,
+FILEGROWTH=1000KB
+)
+
+LOG ON 
+(
+NAME = DB_Cadastro_LOG,
+FILENAME=N'C:\Users\ta0503\Documents\Sinqia_AspNet\DB_Cadastro.log.ldf',
+SIZE = 2000KB,
+MAXSIZE=UNLIMITED,
+FILEGROWTH=1000KB
+);
+
+GO

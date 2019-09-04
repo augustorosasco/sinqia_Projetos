@@ -1,0 +1,6 @@
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\Projeto_AcessoDados\obj\Debug\Projeto_AcessoDados.csprojAssemblyReference.cache
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\Projeto_AcessoDados\obj\Debug\Projeto_AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\Projeto_AcessoDados\bin\Debug\Projeto_AcessoDados.dll
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\Projeto_AcessoDados\bin\Debug\Projeto_AcessoDados.pdb
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\Projeto_AcessoDados\obj\Debug\Projeto_AcessoDados.dll
+C:\Users\ta0503\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEscola\Projeto_AcessoDados\obj\Debug\Projeto_AcessoDados.pdb
